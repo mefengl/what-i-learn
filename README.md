@@ -12,4 +12,8 @@ https://akoskm.com/how-to-connect-browser-extensions-to-supabase , One of my que
 
 08
 
-https://flowbite.com/docs/components/chat-bubble , Learned to write a chat bubble component by tailwind.
+https://flowbite.com/docs/components/chat-bubble , Learned to write a chat bubble component by tailwind
+
+13
+
+https://supabase.com/docs/guides/auth/redirect-urls , When use supabase auth, the redirect url should be added in the auth settings
