@@ -17,3 +17,5 @@ https://flowbite.com/docs/components/chat-bubble , Learned to write a chat bubbl
 13
 
 https://supabase.com/docs/guides/auth/redirect-urls , When use supabase auth, the redirect url should be added in the auth settings
+
+https://tigerabrodi.blog/reacts-evolution-from-hooks-to-concurrent-react , Understand what happened from React 16 to 18.
