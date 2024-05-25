@@ -25,3 +25,7 @@ https://tigerabrodi.blog/reacts-evolution-from-hooks-to-concurrent-react , Under
 https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts , Adding shortcuts to web pages is a good idea, but a panel for buttons might be better
 
 https://dhashe.com/xargs-is-the-inverse-function-of-echo.html , "xargs echo is an identity function because echo $DATA | xargs echo | $CMD is equivalent to echo $DATA | $CMD"
+
+25
+
+https://github.com/bubkoo/html-to-image#toblob , finally, i know how to turn html into an image
