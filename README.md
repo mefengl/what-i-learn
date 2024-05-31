@@ -29,3 +29,7 @@ https://dhashe.com/xargs-is-the-inverse-function-of-echo.html , "xargs echo is a
 25
 
 https://github.com/bubkoo/html-to-image#toblob , finally, i know how to turn html into an image
+
+31
+
+https://supabase.com/docs/reference/javascript/auth-refreshsession , get the expired time form getSession() and refreshSession() before it expires
