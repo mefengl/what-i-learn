@@ -33,3 +33,9 @@ https://github.com/bubkoo/html-to-image#toblob , finally, i know how to turn htm
 31
 
 https://supabase.com/docs/reference/javascript/auth-refreshsession , get the expired time form getSession() and refreshSession() before it expires
+
+## 2024-06
+
+19
+
+https://github.com/wxt-dev/wxt/pull/751 , how to organize the examples of a framework
