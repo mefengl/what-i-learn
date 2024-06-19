@@ -39,3 +39,7 @@ https://supabase.com/docs/reference/javascript/auth-refreshsession , get the exp
 19
 
 https://github.com/wxt-dev/wxt/pull/751 , how to organize the examples of a framework
+
+https://medium.com/developer-rants/whats-so-cool-about-usereducer-anyway-b6d2611e0703 , I was looking for drawbacks of useReducer, but I was surprised to find that it also mentions issues with useState
+
+https://lazamar.github.io/writing-better-if-statements , Using less expression in an if statement is an interesting idea
