@@ -47,3 +47,7 @@ https://lazamar.github.io/writing-better-if-statements , Using less expression i
 21
 
 https://discordjs.guide/creating-your-bot/command-handling.html#loading-command-files , Organize multiple functions efficiently and compile them into a main file
+
+22
+
+https://docs.sentry.io/platforms/javascript/sourcemaps , add sourcemaps to sentry so that can see the original code in the error
