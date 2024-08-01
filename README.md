@@ -53,3 +53,9 @@ https://discordjs.guide/creating-your-bot/command-handling.html#loading-command-
 https://docs.sentry.io/platforms/javascript/sourcemaps , add sourcemaps to sentry so that can see the original code in the error
 
 https://iconify.design/docs/iconify-icon/react.html , use iconify in react
+
+## 2024-08
+
+1
+
+https://haacked.com/archive/2014/07/28/github-flow-aliases , useful but somewhat geeky aliases for git
