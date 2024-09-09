@@ -65,3 +65,9 @@ https://haacked.com/archive/2014/07/28/github-flow-aliases , useful but somewhat
 https://github.com/developit/mitt/commit/a6190e91a68d35adffbeda2e92f92ec565557f89 , when modifying data, sets are more efficient than arrays for deletion and addition. additionally, returning objects can help maintain method chaining
 
 https://frontendmasters.com/blog/exploring-the-possibilities-of-native-javascript-decorators , get some basic understanding of decorators
+
+## 2024-09
+
+9
+
+https://lutaonan.com/blog/electron-sqlite , use drizzle's proxy for electron communication
