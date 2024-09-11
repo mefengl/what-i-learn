@@ -71,3 +71,7 @@ https://frontendmasters.com/blog/exploring-the-possibilities-of-native-javascrip
 9
 
 https://lutaonan.com/blog/electron-sqlite , use drizzle's proxy for electron communication
+
+11
+
+https://www.youtube.com/watch?v=CPLdltN7wgE , basic lazygit
