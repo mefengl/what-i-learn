@@ -75,3 +75,7 @@ https://lutaonan.com/blog/electron-sqlite , use drizzle's proxy for electron com
 11
 
 https://www.youtube.com/watch?v=CPLdltN7wgE , basic lazygit
+
+13
+
+https://jesseduffield.com/Lazygit-5-Years-On, from this article we can see how to keep a popular open source project
