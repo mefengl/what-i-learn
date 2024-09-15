@@ -79,3 +79,7 @@ https://www.youtube.com/watch?v=CPLdltN7wgE , basic lazygit
 13
 
 https://jesseduffield.com/Lazygit-5-Years-On, from this article we can see how to keep a popular open source project
+
+15
+
+https://www.youtube.com/watch?v=0rJ94rbdteE , get a sense of the beauty of rust
