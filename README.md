@@ -83,3 +83,7 @@ https://jesseduffield.com/Lazygit-5-Years-On, from this article we can see how t
 15
 
 https://www.youtube.com/watch?v=0rJ94rbdteE , get a sense of the beauty of rust
+
+20
+
+https://x.com/ImSh4yy/status/1836896872558170347 , how to choose between spa/ssg/isr/ssg
