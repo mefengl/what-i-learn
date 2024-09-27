@@ -87,3 +87,7 @@ https://www.youtube.com/watch?v=0rJ94rbdteE , get a sense of the beauty of rust
 20
 
 https://x.com/ImSh4yy/status/1836896872558170347 , how to choose between spa/ssg/isr/ssg
+
+27
+
+https://docs.expo.dev/workflow/continuous-native-generation , how to do native things in expo
