@@ -93,3 +93,9 @@ https://x.com/ImSh4yy/status/1836896872558170347 , how to choose between spa/ssg
 https://docs.expo.dev/workflow/continuous-native-generation , how to do native things in expo
 
 https://shopify.engineering/building-app-clip-react-native , so interesting to see how shopify try to use app clip
+
+## 2024-10
+
+02
+
+https://www.youtube.com/watch?v=VU1NKX6Qkxc , xstate is easier than redux for me
