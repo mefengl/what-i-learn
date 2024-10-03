@@ -99,3 +99,7 @@ https://shopify.engineering/building-app-clip-react-native , so interesting to s
 02
 
 https://www.youtube.com/watch?v=VU1NKX6Qkxc , xstate is easier than redux for me
+
+03
+
+https://www.youtube.com/watch?v=9eHEOAn2FOA , it lists the key points in web animation
