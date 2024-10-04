@@ -103,3 +103,7 @@ https://www.youtube.com/watch?v=VU1NKX6Qkxc , xstate is easier than redux for me
 03
 
 https://www.youtube.com/watch?v=9eHEOAn2FOA , it lists the key points in web animation
+
+04
+
+https://www.youtube.com/watch?v=_1qajac6xwc, it's a really good video about gsap and framer motion comparison
