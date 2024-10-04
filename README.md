@@ -106,4 +106,6 @@ https://www.youtube.com/watch?v=9eHEOAn2FOA , it lists the key points in web ani
 
 04
 
-https://www.youtube.com/watch?v=_1qajac6xwc, it's a really good video about gsap and framer motion comparison
+https://www.youtube.com/watch?v=_1QAJaC6Xwc , it's a really good video about gsap and framer motion comparison
+
+https://www.youtube.com/watch?v=4Rxuc4BcW8o , learn how to publish a swift package
