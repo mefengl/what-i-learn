@@ -112,6 +112,4 @@ https://www.youtube.com/watch?v=4Rxuc4BcW8o , learn how to publish a swift packa
 
 06
 
-https://zellij.dev/tutorials/session-management , zellij still surprises me
-
 https://www.youtube.com/watch?v=QC4b2teG_hc , kamal is amazing
