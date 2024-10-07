@@ -113,3 +113,7 @@ https://www.youtube.com/watch?v=4Rxuc4BcW8o , learn how to publish a swift packa
 06
 
 https://www.youtube.com/watch?v=QC4b2teG_hc , kamal is amazing
+
+07
+
+https://github.com/basecamp/kamal/discussions/596 , sqlite needs to use a volume to keep data
