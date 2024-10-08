@@ -117,3 +117,7 @@ https://www.youtube.com/watch?v=QC4b2teG_hc , kamal is amazing
 07
 
 https://github.com/basecamp/kamal/discussions/596 , sqlite needs to use a volume to keep data
+
+08
+
+https://www.oskarkwasniewski.dev/blog/create-react-native-macos-menubar-app , how to create a menubar app in react native
