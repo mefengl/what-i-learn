@@ -121,3 +121,7 @@ https://github.com/basecamp/kamal/discussions/596 , sqlite needs to use a volume
 08
 
 https://www.oskarkwasniewski.dev/blog/create-react-native-macos-menubar-app , how to create a menubar app in react native
+
+09
+
+https://blog.dejangegic.com/smallest-bun-docker-image , true knowledge of docker
