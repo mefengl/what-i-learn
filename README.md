@@ -129,3 +129,5 @@ https://blog.dejangegic.com/smallest-bun-docker-image , true knowledge of docker
 12
 
 https://github.com/benbjohnson/litestream, the Contribution Policy is smart: 1. only bug fix pull requests are allowed, because feature pull requests will add maintenance cost; 2. have a separate docs repo to keep the main repo contributions clean
+
+https://stackoverflow.com/questions/8801729/is-it-possible-to-have-different-git-configuration-for-different-projects , learn how to set different git config conditionally
