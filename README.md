@@ -135,3 +135,7 @@ https://stackoverflow.com/questions/8801729/is-it-possible-to-have-different-git
 14
 
 https://2019.wattenberger.com/blog/react-hooks , "think in hooks"
+
+15
+
+https://www.youtube.com/watch?v=loTaZAkIZP0 , learned a lot from his stack
