@@ -139,3 +139,7 @@ https://2019.wattenberger.com/blog/react-hooks , "think in hooks"
 15
 
 https://www.youtube.com/watch?v=loTaZAkIZP0 , learned a lot from his stack
+
+24
+
+https://www.eddymens.com/blog/the-difference-between-a-jwt-and-a-bearer-token , jwt and bearer
