@@ -143,3 +143,7 @@ https://www.youtube.com/watch?v=loTaZAkIZP0 , learned a lot from his stack
 24
 
 https://www.eddymens.com/blog/the-difference-between-a-jwt-and-a-bearer-token , jwt and bearer
+
+26
+
+https://mozzius.dev/post/3l777nhz4h32w , how to make react native native
