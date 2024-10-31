@@ -151,3 +151,7 @@ https://mozzius.dev/post/3l777nhz4h32w , how to make react native native
 27
 
 https://odino.org/minimal-docker-run-your-nodejs-app-in-25mb-of-an-image , learn some common ways to get the smallest docker image
+
+31
+
+https://oldmoe.blog/2024/04/30/backup-strategies-for-sqlite-in-production , the only article you need for sqlite backup
