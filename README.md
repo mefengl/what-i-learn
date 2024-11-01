@@ -1,5 +1,9 @@
 # what-i-learn
 
+weekly
+
+https://github.com/WiseLibs/better-sqlite3/blob/master/docs/api.md#new-databasepath-options
+
 ## 2024-04
 
 25
